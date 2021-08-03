@@ -1,0 +1,6 @@
+USE parquetematico;
+INSERT INTO sgpt_visitas (VSTVIS_CPF, VSTEST_IdEstrutura, VST_DataVisita)
+VALUES 
+('12345678901', 5, '2021-02-13 14:25:35'),
+('12312345645', 7, '2021-05-06 09:07:13'),
+('02940500503', 4, '2021-01-23 16:37:41');
